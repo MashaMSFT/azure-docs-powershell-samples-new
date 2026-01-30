@@ -4,7 +4,7 @@
 $SubscriptionId = "<Enter Subscription ID>"
 $Location = "<Enter Location>"
 $ResourceGroupName = "<Enter Resource Group Name>"
-$userName = "<Enter User Name for the virtual machine"
+$userName = "<Enter User Name for the virtual machine>"
 # </GlobalVariables>
 
 # <StorageVariables>
